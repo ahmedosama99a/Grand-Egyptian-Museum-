@@ -1,2 +1,7 @@
-# Grand-Egyptian-Museum-
-Grand-Egyptian-Museum  
+# مشروع المتحف المصري الكبير
+
+المشروع جاهز للرفع على GitHub Pages.
+
+- الصور الأربع موجودة داخل مجلد `images`.
+- روابط YouTube ظاهرة بجوار كل QR Code في زر «افتح رابط الفيديو».
+- ملف التشغيل الرئيسي هو `index.html`.
